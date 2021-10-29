@@ -5,7 +5,6 @@ import {
   faAngleLeft,
   faAngleRight,
 } from "@fortawesome/free-solid-svg-icons";
-import "../style/Player.module.css";
 
 const Player = () => {
   return (
