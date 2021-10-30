@@ -1,10 +1,11 @@
 import Player from "./components/Player";
 import Song from "./components/Song";
+import Nav from "./components/Nav";
 import data from "./util";
 import Library from "./components/Library";
 import "./style/app.scss";
 import { useState, useRef } from "react";
-import { library } from "@fortawesome/fontawesome-svg-core";
+// import { library } from "@fortawesome/fontawesome-svg-core";
 
 function App() {
   //ref
@@ -15,6 +16,9 @@ function App() {
     const duration = e.target.duration;
     setSongInfo({ ...songInfo, currentTime: current, duration });
   };
+
+  //check if library is open
+  const [libraryStatus, setLibraryStatus] = useState(false);
   const [songInfo, setSongInfo] = useState({
     currentTime: 0,
     duration: 0,
@@ -24,6 +28,7 @@ function App() {
   const [isPlaying, setIsPlaying] = useState(false);
   return (
     <div className="App">
+      <Nav libraryStatus={libraryStatus} setLibraryStatus={setLibraryStatus} />
       <Song currentSong={currentSong} />
       <Player
         audioRef={audioRef}
@@ -39,6 +44,7 @@ function App() {
         audioRef={audioRef}
         isPlaying={isPlaying}
         setSongs={setSongs}
+        libraryStatus={libraryStatus}
       />
       <audio
         onTimeUpdate={timeUpdateHandler}
