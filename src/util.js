@@ -72,6 +72,46 @@ function chillHop() {
       id: uuidv4(),
       active: false,
     },
+    {
+      name: "Hope Island",
+      cover:
+        "https://chillhop.com/wp-content/uploads/2021/09/a2d710149876c8e0c9fb097840b2438fbc21bd37-1024x1024.jpg",
+      artist: "Avinno",
+      audio: "https://mp3.chillhop.com/serve.php/?mp3=10493",
+      color: ["#fcf095", "#627e87"],
+      id: uuidv4(),
+      active: false,
+    },
+    {
+      name: "Hope Island",
+      cover:
+        "https://chillhop.com/wp-content/uploads/2021/09/a2d710149876c8e0c9fb097840b2438fbc21bd37-1024x1024.jpg",
+      artist: "Avinno",
+      audio: "https://mp3.chillhop.com/serve.php/?mp3=10493",
+      color: ["#fcf095", "#627e87"],
+      id: uuidv4(),
+      active: false,
+    },
+    {
+      name: "Hope Island",
+      cover:
+        "https://chillhop.com/wp-content/uploads/2021/09/a2d710149876c8e0c9fb097840b2438fbc21bd37-1024x1024.jpg",
+      artist: "Avinno",
+      audio: "https://mp3.chillhop.com/serve.php/?mp3=10493",
+      color: ["#fcf095", "#627e87"],
+      id: uuidv4(),
+      active: false,
+    },
+    {
+      name: "Hope Island",
+      cover:
+        "https://chillhop.com/wp-content/uploads/2021/09/a2d710149876c8e0c9fb097840b2438fbc21bd37-1024x1024.jpg",
+      artist: "Avinno",
+      audio: "https://mp3.chillhop.com/serve.php/?mp3=10493",
+      color: ["#fcf095", "#627e87"],
+      id: uuidv4(),
+      active: false,
+    },
   ];
 }
 
