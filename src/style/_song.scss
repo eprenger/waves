@@ -16,3 +16,17 @@
     font-size: 1rem;
   }
 }
+@media screen and (min-width: 769px) and (max-width: 950px) {
+  .song-container {
+    img {
+      width: 40%;
+    }
+  }
+}
+@media screen and (max-width: 768px) {
+  .song-container {
+    img {
+      width: 60%;
+    }
+  }
+}
