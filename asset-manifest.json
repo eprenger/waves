@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/phttps://eprenger.github.io/waves/static/css/main.5d66f040.chunk.css",
-    "main.js": "/phttps://eprenger.github.io/waves/static/js/main.9066d0f7.chunk.js",
-    "main.js.map": "/phttps://eprenger.github.io/waves/static/js/main.9066d0f7.chunk.js.map",
-    "runtime-main.js": "/phttps://eprenger.github.io/waves/static/js/runtime-main.05f90f2f.js",
-    "runtime-main.js.map": "/phttps://eprenger.github.io/waves/static/js/runtime-main.05f90f2f.js.map",
-    "static/js/2.f19dfe63.chunk.js": "/phttps://eprenger.github.io/waves/static/js/2.f19dfe63.chunk.js",
-    "static/js/2.f19dfe63.chunk.js.map": "/phttps://eprenger.github.io/waves/static/js/2.f19dfe63.chunk.js.map",
-    "static/js/3.fcae5693.chunk.js": "/phttps://eprenger.github.io/waves/static/js/3.fcae5693.chunk.js",
-    "static/js/3.fcae5693.chunk.js.map": "/phttps://eprenger.github.io/waves/static/js/3.fcae5693.chunk.js.map",
-    "index.html": "/phttps://eprenger.github.io/waves/index.html",
-    "static/css/main.5d66f040.chunk.css.map": "/phttps://eprenger.github.io/waves/static/css/main.5d66f040.chunk.css.map",
-    "static/js/2.f19dfe63.chunk.js.LICENSE.txt": "/phttps://eprenger.github.io/waves/static/js/2.f19dfe63.chunk.js.LICENSE.txt"
+    "main.css": "/waves/static/css/main.5d66f040.chunk.css",
+    "main.js": "/waves/static/js/main.9066d0f7.chunk.js",
+    "main.js.map": "/waves/static/js/main.9066d0f7.chunk.js.map",
+    "runtime-main.js": "/waves/static/js/runtime-main.435f9f3a.js",
+    "runtime-main.js.map": "/waves/static/js/runtime-main.435f9f3a.js.map",
+    "static/js/2.f19dfe63.chunk.js": "/waves/static/js/2.f19dfe63.chunk.js",
+    "static/js/2.f19dfe63.chunk.js.map": "/waves/static/js/2.f19dfe63.chunk.js.map",
+    "static/js/3.fcae5693.chunk.js": "/waves/static/js/3.fcae5693.chunk.js",
+    "static/js/3.fcae5693.chunk.js.map": "/waves/static/js/3.fcae5693.chunk.js.map",
+    "index.html": "/waves/index.html",
+    "static/css/main.5d66f040.chunk.css.map": "/waves/static/css/main.5d66f040.chunk.css.map",
+    "static/js/2.f19dfe63.chunk.js.LICENSE.txt": "/waves/static/js/2.f19dfe63.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.05f90f2f.js",
+    "static/js/runtime-main.435f9f3a.js",
     "static/js/2.f19dfe63.chunk.js",
     "static/css/main.5d66f040.chunk.css",
     "static/js/main.9066d0f7.chunk.js"
